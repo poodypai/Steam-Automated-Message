@@ -8,7 +8,7 @@ const community = new SteamCommunity();
 const steamAPI = new SteamWebAPI();
 
 // Steam bot credentials
-const username = 'XXXX'; // Stea, Username
+const username = 'XXXX'; // Steam Username
 const password = 'XXXX'; // Steam Password
 const code = 'XXXXX'; //Shared Secret
 
